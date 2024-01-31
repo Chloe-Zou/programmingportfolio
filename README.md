@@ -19,27 +19,27 @@ OOP graphical game with sound and keyboard/mouse listeners.
 ### Computer History Timeline
 A timeline showing when certain computers were made.
 
-![Gameplay]((https://github.com/Chloe-Zou/programmingportfolio/blob/main/images/timeline.png))
+![Gameplay](https://github.com/Chloe-Zou/programmingportfolio/blob/main/images/timeline.png)
 
 [Source Code](https://github.com/Chloe-Zou/programmingportfolio/blob/main/src/Timeline.zip)
 
-### SpaceGame
-OOP graphical game with sound and keyboard/mouse listeners.
+### Drive Cars
+Moving cars with randomized features.
 
-![Gameplay](https://github.com/Chloe-Zou/programmingportfolio/blob/main/images/sg1.png?raw=true)
+![Gameplay](https://github.com/Chloe-Zou/programmingportfolio/blob/main/images/cars.png)
 
-[Source Code](https://github.com/Chloe-Zou/programmingportfolio/blob/main/src/SpaceGame.zip)
+[Source Code](https://github.com/Chloe-Zou/programmingportfolio/blob/main/src/DriveCars%202.zip)
 
-### SpaceGame
-OOP graphical game with sound and keyboard/mouse listeners.
+### Calculator
+A calculator that has buttons, and can be used by keyboard.
 
-![Gameplay](https://github.com/Chloe-Zou/programmingportfolio/blob/main/images/sg1.png?raw=true)
+![Gameplay](hhttps://github.com/Chloe-Zou/programmingportfolio/blob/main/images/calckey.png)
 
-[Source Code](https://github.com/Chloe-Zou/programmingportfolio/blob/main/src/SpaceGame.zip)
+[Source Code](https://github.com/Chloe-Zou/programmingportfolio/blob/main/src/CalculatorKeyboard.zip)
 
-### SpaceGame
-OOP graphical game with sound and keyboard/mouse listeners.
+### EtchSketch
+Allows you to draw with your keyboard and save the drawing.
 
-![Gameplay](https://github.com/Chloe-Zou/programmingportfolio/blob/main/images/sg1.png?raw=true)
+![Gameplay](https://github.com/Chloe-Zou/programmingportfolio/blob/main/images/line-000106.png)
 
-[Source Code](https://github.com/Chloe-Zou/programmingportfolio/blob/main/src/SpaceGame.zip)
+[Source Code](https://github.com/Chloe-Zou/programmingportfolio/blob/main/src/EtchSketch.zip)
