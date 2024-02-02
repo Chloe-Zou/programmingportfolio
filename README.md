@@ -19,7 +19,7 @@ OOP graphical game with sound and keyboard/mouse listeners.
 ### Computer History Timeline
 A timeline showing when certain computers were made.
 
-![Gameplay](https://github.com/Chloe-Zou/programmingportfolio/blob/main/images/timeline.png)
+![Gameplay](https://github.com/Chloe-Zou/programmingportfolio/blob/main/images/timeline.png?raw=true)
 
 [Source Code](https://github.com/Chloe-Zou/programmingportfolio/blob/main/src/Timeline.zip)
 
