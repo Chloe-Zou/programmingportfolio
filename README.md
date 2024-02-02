@@ -26,26 +26,26 @@ A timeline showing when certain computers were made.
 ### Drive Cars
 Moving cars with randomized features.
 
-![Gameplay](https://github.com/Chloe-Zou/programmingportfolio/blob/main/images/cars.png)
+![Gameplay](https://github.com/Chloe-Zou/programmingportfolio/blob/main/images/cars.png?raw=true)
 
 [Source Code](https://github.com/Chloe-Zou/programmingportfolio/blob/main/src/DriveCars%202.zip)
 
 ### Calculator
 A calculator that has buttons, and can be used by keyboard.
 
-![Gameplay](hhttps://github.com/Chloe-Zou/programmingportfolio/blob/main/images/calckey.png)
+![Gameplay](hhttps://github.com/Chloe-Zou/programmingportfolio/blob/main/images/calckey.png?raw=true)
 
 [Source Code](https://github.com/Chloe-Zou/programmingportfolio/blob/main/src/CalculatorKeyboard.zip)
 
 ### EtchSketch
 Allows you to draw with your keyboard and save the drawing.
 
-![Gameplay](https://github.com/Chloe-Zou/programmingportfolio/blob/main/images/line-000106.png)
+![Gameplay](https://github.com/Chloe-Zou/programmingportfolio/blob/main/images/line-000106.png?raw=true)
 
 [Source Code](https://github.com/Chloe-Zou/programmingportfolio/blob/main/src/EtchSketch.zip)
 
 ### Piglatin Converter
 Allows you to change words into piglatin.
 
-! [Gameplay](https://github.com/Chloe-Zou/programmingportfolio/blob/main/images/piglatin.png)
+! [Gameplay](https://github.com/Chloe-Zou/programmingportfolio/blob/main/images/piglatin.png?raw=true)
 [Source Code](https://github.com/Chloe-Zou/programmingportfolio/blob/main/src/main.py)
