@@ -33,7 +33,7 @@ Moving cars with randomized features.
 ### Calculator
 A calculator that has buttons, and can be used by keyboard.
 
-![Gameplay](hhttps://github.com/Chloe-Zou/programmingportfolio/blob/main/images/calckey.png?raw=true)
+![Gameplay](https://github.com/Chloe-Zou/programmingportfolio/blob/main/images/calckey.png?raw=true)
 
 [Source Code](https://github.com/Chloe-Zou/programmingportfolio/blob/main/src/CalculatorKeyboard.zip)
 
@@ -47,5 +47,5 @@ Allows you to draw with your keyboard and save the drawing.
 ### Piglatin Converter
 Allows you to change words into piglatin.
 
-! [Gameplay](https://github.com/Chloe-Zou/programmingportfolio/blob/main/images/piglatin.png?raw=true)
+![Gameplay](https://github.com/Chloe-Zou/programmingportfolio/blob/main/images/piglatin.png?raw=true)
 [Source Code](https://github.com/Chloe-Zou/programmingportfolio/blob/main/src/main.py)
