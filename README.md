@@ -1,11 +1,14 @@
 # Chloe Zou's Programming Portfolio 2023-24
 Skyline High School Computer Programming 1-2
-* [Email](9664282@graniteschools.org)
+Email: 9664282@graniteschools.org
 
 ## USDE Tech Certifications
 * [Computer Programming 1](https://github.com/Chloe-Zou/programmingportfolio/blob/main/images/Chloe%20Zou_Computer%20Programming%20I_12182023.pdf)
 
 ## Group Project (2023-24)
+#Surreal Seal
+The Surreal Seal game is a text-based game where a seal has been separated from his family. The goal of the game is to reunite the seal with his family, but throughout the journey there are different challenges and choices that the player needs to make.
+[Link to repository](https://github.com/akiaxin/SurrealSeal.git)
 
 ## Individual Projects (2023-24)
 
