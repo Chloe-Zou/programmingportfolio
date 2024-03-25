@@ -8,10 +8,13 @@ Email: 9664282@graniteschools.org
 ## Group Project (2023-24)
 #Surreal Seal
 The Surreal Seal game is a text-based game where a seal has been separated from his family. The goal of the game is to reunite the seal with his family, but throughout the journey there are different challenges and choices that the player needs to make.
+![Picture of running application](https://github.com/Chloe-Zou/programmingportfolio/blob/main/images/sealgamepic.png?raw=true)
 [Link to repository](https://github.com/akiaxin/SurrealSeal.git)
 
 ## Individual Projects (2023-24)
-
+#ChloeTime
+In this game you are a chef, and your goal is to become the best cook of all of the cats. During your journey you must challenge other cooks to gain fame and go on quest to unlock new skills and techniques, to improve your cooking skills.
+[Link to repository](https://github.com/Chloe-Zou/ChloeTime.git)
 
 ### SpaceGame
 OOP graphical game with sound and keyboard/mouse listeners.
