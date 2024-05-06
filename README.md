@@ -4,7 +4,7 @@ Email: 9664282@graniteschools.org
 
 ## USDE Tech Certifications
 * [Computer Programming 1](https://github.com/Chloe-Zou/programmingportfolio/blob/main/images/Chloe%20Zou_Computer%20Programming%20I_12182023.pdf)
-* [Python 1]()
+* [Python 1](https://github.com/Chloe-Zou/programmingportfolio/blob/main/images/Chloe%20Zou_Computer%20Programming%20II%20Python_05062024.pdf)
 
 ## Group Project (2023-24)
 #Surreal Seal
