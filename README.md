@@ -17,6 +17,7 @@ The Surreal Seal game is a text-based game where a seal has been separated from 
 ## Individual Projects (2023-24)
 # ChloeTime
 In this game you are a chef, and your goal is to become the best cook of all of the cats. During your journey you must challenge other cooks to gain fame and go on quest to unlock new skills and techniques, to improve your cooking skills.
+![Gameplay](https://github.com/Chloe-Zou/programmingportfolio/blob/main/images/ChloeTime)
 [Link to repository](https://github.com/Chloe-Zou/ChloeTime.git)
 
 ### SpaceGame
